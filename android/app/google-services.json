@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "275574460475",
+    "project_id": "calley-app-31d5e",
+    "storage_bucket": "calley-app-31d5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275574460475:android:e28fa525aad109cf690c1e",
+        "android_client_info": {
+          "package_name": "com.example.calley_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275574460475-t8c1s7rv11mkh48g4qbbg0jagghq20km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calley_app",
+            "certificate_hash": "9a918af90690649ae653b90e571e2d2606027dd7"
+          }
+        },
+        {
+          "client_id": "275574460475-u2euhnjvt1c10ld6nc8elm51rrkor7b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ67TRCmAfRc_Q7QWxKMEKK3b6zvOXMmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275574460475-u2euhnjvt1c10ld6nc8elm51rrkor7b2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275574460475-ph8qamjg22ei8lruq1mqfhhua0lgm9i0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calleyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
