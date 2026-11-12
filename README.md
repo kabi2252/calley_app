@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calley - Automatic Call Dialer Mobile App 📱
 
 A production-ready Flutter mobile application built from the **Calley Mobile App** Figma design specifications with complete REST API integrations, animated transitions, interactive charts, and brand assets.
@@ -98,3 +99,6 @@ D:\development\flutter\bin\flutter.bat run -d windows
 D:\development\flutter\bin\flutter.bat test
 ```
 *(All 12 unit and widget tests pass with 100% success rate)*
+=======
+# calley_app
+>>>>>>> 249fc3ea4e7d0aa6101b782916d3f8733d54c48b
